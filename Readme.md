@@ -5,6 +5,11 @@
 **3.My Drive to Shared Drive.**
 
 <h2> 🆕What's New?🆕</h2>
+<h5><b>Update log for v2.2.2</b></h5>
+<h4>1.Auto Reconnector is added at place of Timeout Preventer!🤩</h4>
+<h4>2.Fixed Two more Transfer Issues reported to me by my Users!😘</h4>
+<h4>3.Useless Codes are deducted from Colab NoteBook.😁</h4>
+<h5><b>Update log for v2.2.1</b></h5>
 <h4>1.Added Time Out Preventer!😀</h4>
 <h4>2.Fixed a Mounting Issue!😅</h4>
 <h4>3.Added More Movement!😉</h4>
@@ -38,9 +43,12 @@
 <h2> 🤔 Why Use This?</h2>
 <h4>If you use Google Collab for Long term use, then you can understand that it requires Human Interaction atleast one time per 90 Minutes! Otherwise it will cancel the task and all your Work will got failed! But this Repository comes with the code which prevent this. Yes you heard it right just click on the "Play Code Button" and then don't worry about time out! Also sometimes it become defficult to upload Files directly to Shared Drives, So we have added a dedicated Shared Drive Section in the UI. We update every Repository on a regular Basis and fix Problems reported to us by our Users!</h4>
 <h2> 📥Download</h2>
-<h4> You can also Download this GitHub Repository as (.zip) file:</h4>
-<h4> <a href="https://github.com/TheCaduceus/Google-Drive-Cloner/archive/refs/heads/main.zip">Download Now</a></h4>
+<h4> You can also Download this GitHub Repository as (.zip) file.</h4>
+<h4> Following Versions are available to download:</h4>
+<h4>v2.2.2:<a href="https://github.com/TheCaduceus/Google-Drive-Cloner/archive/refs/tags/v2.2.2.zip"> Download Now</a></h4>
+<h4>v2.2.1:<a href="https://github.com/TheCaduceus/Google-Drive-Cloner/archive/refs/tags/v2.2.1.zip"> Download Now</a></h4>
 <h2>⛑Contact Us!</h2>
+<h4>Don't Forget to view My Official Website: <a href="https://www.caduceus.ml/"> Check Out</a></h4>
 <h4>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></h4>
 <h4>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></h4>
 <h2>❤️Credits & Thanks</h2>
